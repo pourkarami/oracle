@@ -45,3 +45,9 @@ This file intentionally contains no private Google Drive / OneNote / Notion link
 Official starting references: [Oracle 19c HA library](https://docs.oracle.com/en/database/oracle/oracle-database/19/high-availability.html), [19c Data Guard](https://docs.oracle.com/en/database/oracle/oracle-database/19/sbydb/index.html), [19c licensing](https://docs.oracle.com/en/database/oracle/oracle-database/19/dblic/Licensing-Information.html).
 
 **Current boundary:** `DRAFT / QA_HOLD / NOT_MERGED / NOT_PUBLISHED`. This addendum documents detected continuity gaps; it does not approve a release or executable procedure.
+
+### Completed direct-section inventory (2026-11-18)
+
+All 15 Oracle domain sections were enumerated for both 19c and 26ai. Direct page totals by domain (19c/26ai): Concepts 1/44; Database Reference 0/0; Administration 0/0; Multitenant 0/0; RAC 0/0; Data Guard 2/0; ASM 0/0; Clusterware 0/0; Backup and Recovery 1/1; Security 0/0; Performance Tuning 0/0; Install and Upgrade 2/0; Sharding 0/0; New Features 0/0; Errors and Troubleshooting 11/0. Each read had no further pagination. These are OneNote direct-page counts, **not** completed lesson counts.
+
+Two 19c ORA-00600 English pages have **identical visible text** across all 30 blocks, but distinct resource IDs and creation times. Review media and page history before deciding whether to consolidate; preserve both in the meantime. One 19c Backup and Recovery page has an empty title; preserve for evidence reconciliation. QA_HOLD remains unchanged.
