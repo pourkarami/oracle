@@ -61,3 +61,12 @@ Two 19c ORA-00600 English pages have **identical visible text** across all 30 bl
 - **Existing material preserved:** Full 19c installation runbook, HA roadmap, five Error Clinic episodes and 19c/26ai role-based labs retain independent source, editorial, lab and release gates. No media, scripts, credentials or environment details are included in this pull request.
 
 **Draft PR only / QA_HOLD / NOT_MERGED / NOT_PUBLISHED.**
+
+## Oracle Performance Clinic EP01 / EP02 — editorial archive only (2026-11-22)
+
+| Episode | Topic | Inventory | Status |
+|---|---|---:|---|
+| EP01 | Oracle Is Slow — Where Do You Start? | 69 assets in the editorial archive; full FA/EN article, 8-slide per-language carousel, PDFs, source and visual QA evidence | `EDITORIAL_ARCHIVE_ONLY / TECHNICAL_QA_HOLD / NOT_PUBLISHED` |
+| EP02 | AWR, ASH & Wait Events — Finding the Real Bottleneck | 60 assets in the editorial archive; full FA/EN article, 8-slide per-language carousel, PDFs, DOCX, source and visual QA evidence | `EDITORIAL_ARCHIVE_ONLY / LICENSING_REVIEW / TECHNICAL_QA_HOLD / NOT_PUBLISHED` |
+
+The two original ZIP archives, 129 individual source/visual files, SHA-256 manifest and four substantial FA/EN OneNote editorial pages are stored in access-controlled STACKFAR systems. **Neither episode has a verified official Objective/PROMPT ID or an approved 15×2 release.** Neither package contains an editable PPTX. No Oracle lab evidence, Diagnostics Pack licensing entitlement, independent review or owner publication sign-off is asserted. No private links, SQL, scripts, visuals, customer data or release binaries have been committed here. This PR remains a draft and must not be merged without explicit owner approval.
